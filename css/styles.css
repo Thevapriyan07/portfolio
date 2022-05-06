@@ -123,9 +123,7 @@ img {
   color: var(--first-color);
 }
 
-.nav_color{
-  background-color: rgb(184, 12, 12);
-}
+
 
 @media screen and (max-width: 768px) {
   .nav_menu {
